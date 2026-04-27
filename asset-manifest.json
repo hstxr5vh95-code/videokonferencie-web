@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/videokonferencie-web/static/css/main.180918e8.css",
-    "main.js": "/videokonferencie-web/static/js/main.0af1154a.js",
+    "main.js": "/videokonferencie-web/static/js/main.25d0c6aa.js",
     "index.html": "/videokonferencie-web/index.html",
     "main.180918e8.css.map": "/videokonferencie-web/static/css/main.180918e8.css.map",
-    "main.0af1154a.js.map": "/videokonferencie-web/static/js/main.0af1154a.js.map"
+    "main.25d0c6aa.js.map": "/videokonferencie-web/static/js/main.25d0c6aa.js.map"
   },
   "entrypoints": [
     "static/css/main.180918e8.css",
-    "static/js/main.0af1154a.js"
+    "static/js/main.25d0c6aa.js"
   ]
 }
